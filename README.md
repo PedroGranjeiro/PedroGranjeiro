@@ -13,15 +13,11 @@ Eu sou o **Pedro Granjeiro**, tenho 23 anos e sou natural de Brasília-DF. Concl
 * 🐍 **Python:** Desenvolvendo scripts para automação e análise.
 
 ### 🚀 Objetivos
+**📊 Criar o meu portfólio de ciência de dados** ![15%](https://progress-bar.dev/40/?title=Progresso&color=0077B5)
 
-**📊 Portfólio de Ciência de Dados**
-![Progress](https://progress-bar.dev/15/?title=Desenvolvimento&color=0077B5)
+**🤖 Me especializar em IA e prompts** ![40%](https://progress-bar.dev/70/?title=Progresso&color=FFD700)
 
-**🤖 Especialização em IA e Prompts**
-![Progress](https://progress-bar.dev/40/?title=Aprendizado&color=FFD700)
-
-**🐍 Domínio de Python para Análise**
-![Progress](https://progress-bar.dev/10/?title=Prática&color=3776AB)
+**🐍 Dominar Python para análises** ![5%](https://progress-bar.dev/55/?title=Progresso&color=3776AB)
 
 ---
 
