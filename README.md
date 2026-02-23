@@ -2,7 +2,7 @@
 
 **`Analista de dados`**
 
-Eu sou o Pedro Granjeiro, tenho 23 anos e sou natural de Brasília-DF. Concluí minha graduação em Administração na UDF em 2024, sou um entusiasta da tecnologia de dados e inteligência artificial. Atualmante, busco ampliar ainda mais meus conhecimentos e compartilhá-los com todos aqueles que estão entrando nessa carreira assim como eu. Fique a vontade para se conectar comigo no [Linkedin](www.linkedin.com/in/pedrofilipegranjeiro)
+Eu sou o Pedro Granjeiro, tenho 23 anos e sou natural de Brasília-DF. Concluí minha graduação em Administração na UDF em 2024, sou um entusiasta da tecnologia de dados e inteligência artificial. Atualmante, busco ampliar ainda mais meus conhecimentos e compartilhá-los com todos aqueles que estão entrando nessa carreira assim como eu. Fique a vontade para se conectar comigo no "[Linkedin](www.linkedin.com/in/pedrofilipegranjeiro)".
 <p align="left">
     <a href="www.linkedin.com/in/pedrofilipegranjeiro">
         <img 
@@ -11,6 +11,21 @@ Eu sou o Pedro Granjeiro, tenho 23 anos e sou natural de Brasília-DF. Concluí 
             src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue"
         />
     </a>
+ <a href="https://github.com/PedroGranjeiro?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/PedroGranjeiro?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>
+    <a href="https://github.com/PedroGranjeiro?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/PedroGranjeiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
 
 ### 🤖 Linguagens e Tecnologias
