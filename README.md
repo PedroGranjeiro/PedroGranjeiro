@@ -11,7 +11,7 @@ Eu sou o Pedro Granjeiro, tenho 23 anos e sou natural de Brasília-DF. Concluí 
             src="https://custom-icon-badges.demolab.com/badge/Linkedin-blue"
         />
     </a>
----
+
 
 ### 🤖 Linguagens e Tecnologias
 
