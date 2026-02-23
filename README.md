@@ -2,7 +2,7 @@
 
 **`Analista de dados`**
 
-Eu sou o Pedro Granjeiro, tenho 23 anos e sou natural de Brasília-DF. Concluí minha graduação em Administração na UDF em 2024, sou um entusiasta da tecnologia de dados e inteligência artificial. Atualmante, busco ampliar ainda mais meus conhecimentos e compartilhá-los com todos aqueles que estão entrando nessa carreira assim como eu. Fique a vontade para se conectar comigo no "[Linkedin](www.linkedin.com/in/pedrofilipegranjeiro)"
+Eu sou o Pedro Granjeiro, tenho 23 anos e sou natural de Brasília-DF. Concluí minha graduação em Administração na UDF em 2024, sou um entusiasta da tecnologia de dados e inteligência artificial. Atualmante, busco ampliar ainda mais meus conhecimentos e compartilhá-los com todos aqueles que estão entrando nessa carreira assim como eu. Fique a vontade para se conectar comigo no [Linkedin](www.linkedin.com/in/pedrofilipegranjeiro)
 <p align="left">
     <a href="www.linkedin.com/in/pedrofilipegranjeiro">
         <img 
