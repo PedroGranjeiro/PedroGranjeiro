@@ -7,7 +7,7 @@ Eu sou o **Pedro Granjeiro**, tenho 23 anos e sou natural de Brasília-DF. Concl
 
 ---
 
-### 🛠️ No que estou focado:
+### 🎯 Objetivos:
 * 📊 **Data Analysis & Statistics:** Interpretando padrões e gerando relatórios.
 * 🤖 **Generative AI:** Explorando Prompt Engineering e novas ferramentas de IA.
 * 🐍 **Python:** Desenvolvendo scripts para automação e análise.
