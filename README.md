@@ -12,12 +12,36 @@ Eu sou o **Pedro Granjeiro**, tenho 23 anos e sou natural de Brasília-DF. Concl
 * 🤖 **Generative AI:** Explorando Prompt Engineering e novas ferramentas de IA.
 * 🐍 **Python:** Desenvolvendo scripts para automação e análise.
 
-### 🚀 Objetivos
-**📊 Criar o meu portfólio de ciência de dados** ![15%](https://progress-bar.dev/40/?title=Progresso&color=0077B5)
+---
+### 🛠️ Tecnologias e Ferramentas
+**Dados & Análise**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**🤖 Me especializar em IA e prompts** ![40%](https://progress-bar.dev/70/?title=Progresso&color=FFD700)
+**Inteligência Artificial**
+![Gemini](https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google-keep&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FFD700?style=for-the-badge&logo=micro-strategy&logoColor=black)
 
-**🐍 Dominar Python para análises** ![5%](https://progress-bar.dev/55/?title=Progresso&color=3776AB)
+**Gestão & Produtividade**
+![Wrike](https://img.shields.io/badge/Wrike-04604E?style=for-the-badge&logo=wrike&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 📈 Evolução Profissional
+
+* **📊 Criar meu portfólio de ciência de dados**
+`██▒▒▒▒▒▒▒▒` 15%
+
+* **🤖 Me especializar em IA e prompts**
+`████▒▒▒▒▒▒` 40%
+
+* **🐍 Dominar Python para análises**
+`█▒▒▒▒▒▒▒▒▒` 5%
 
 ---
 
