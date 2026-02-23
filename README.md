@@ -3,7 +3,7 @@
 > "Entusiasta de tecnologia de dados e inteligência artificial, focado em transformar informação em insights."
 
 ### 📝 Sobre mim
-Eu sou o **Pedro Granjeiro**, tenho 23 anos e sou natural de Brasília-DF. Concluí minha graduação em **Administração na UDF em 2024**. Sou um entusiasta da tecnologia de dados e inteligência artificial. Atualmente, busco ampliar ainda mais meus conhecimentos e compartilhá-los com todos aqueles que estão entrando nessa carreira assim como eu.
+Tenho 23 anos e sou natural de Brasília-DF. Concluí minha graduação em **Administração na UDF em 2024**. Sou um entusiasta da tecnologia de dados e inteligência artificial. Atualmente, busco ampliar ainda mais meus conhecimentos e compartilhá-los com todos aqueles que estão entrando nessa carreira assim como eu.
 
 ---
 
