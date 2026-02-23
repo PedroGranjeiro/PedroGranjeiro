@@ -48,6 +48,17 @@ Tenho 23 anos e sou natural de Brasília-DF. Concluí minha graduação em **Adm
 
 ---
 
+### 🚀 Projetos em Destaque
+
+#### 🍝 Engenharia de Sabores: Sistematização e Gestão de Conhecimento com NotebookLM
+*Aplicações de IA Generativa para a estruturação de dados não estruturados no setor culinário.*
+
+* **O que fiz:** Implementei um processo de tratamento de informações utilizando o **NotebookLM** para organizar receitas italianas simples, focando na transformação de dados dispersos em um guia prático e estruturado.
+* **Habilidades:** Gestão do Conhecimento, IA Generativa e Refinamento de Dados.
+* **Status:** `Finalizado` ✅
+
+---
+
 ### 📬 Vamos nos conectar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrofilipegranjeiro/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedro.granjeiro25@gmail.com)
