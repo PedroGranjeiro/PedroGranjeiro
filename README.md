@@ -50,7 +50,8 @@ Tenho 23 anos e sou natural de Brasília-DF. Concluí minha graduação em **Adm
 
 ### 🚀 Projetos em Destaque
 
-#### 🍝 Engenharia de Sabores: Sistematização e Gestão de Conhecimento com NotebookLM
+#### 🍝 [Engenharia de Sabores: Sistematização e Gestão de Conhecimento com NotebookLM](https://github.com/PedroGranjeiro/engenharia-de-sabores)
+
 *Aplicações de IA Generativa para a estruturação de dados não estruturados no setor culinário.*
 
 * **O que fiz:** Implementei um processo de tratamento de informações utilizando o **NotebookLM** para organizar receitas italianas simples, focando na transformação de dados dispersos em um guia prático e estruturado.
