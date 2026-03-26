@@ -58,6 +58,14 @@ Tenho 23 anos e sou natural de Brasília-DF. Concluí minha graduação em **Adm
 * **Habilidades:** Gestão do Conhecimento, IA Generativa e Refinamento de Dados.
 * **Status:** `Finalizado` ✅
 
+#### 🪙 [Tostão - O Seu Gestor Financeiro de Bolso](https://github.com/PedroGranjeiro/Assistente-Financeiro-Tostao-)
+
+*Aplicações de IA Generativa para a estruturação de dados não estruturados no setor culinário.*
+
+* **O que fiz:** construí um agente de educação financeira pessoal desenvolvido com Python, Streamlit e IA generativa local via Ollama — analisa transações, identifica padrões de gasto e explica conceitos financeiros com linguagem acessível.
+* **Habilidades:** Engenharia de Prompt Avançada (GenAI), Desenvolvimento e Arquitetura (Hard Skills) e Versionamento de github e Ferramentas
+* **Status:** `Finalizado` ✅
+
 ---
 
 ### 📬 Vamos nos conectar?
