@@ -38,13 +38,13 @@ Tenho 23 anos e sou natural de Brasília-DF. Concluí minha graduação em **Adm
 ### 📈 Evolução Profissional
 
 * **📊 Criar meu portfólio de ciência de dados**
-`██▒▒▒▒▒▒▒▒` 15%
+`███████████` 100% ✅
 
 * **🤖 Me especializar em IA e prompts**
-`████▒▒▒▒▒▒` 40%
+`████▒▒▒▒▒▒` 35%
 
 * **🐍 Dominar Python para análises**
-`█▒▒▒▒▒▒▒▒▒` 5%
+`████▒▒▒▒▒▒ 20%
 
 ---
 
